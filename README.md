@@ -1,1 +1,1 @@
-# tik-tak-toe
+Tic Tac Toe project for the Oding Project
